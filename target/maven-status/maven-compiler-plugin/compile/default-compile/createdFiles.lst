@@ -1,0 +1,14 @@
+com\localhost\bestbuyinfo\ServicesSteps.class
+com\localhost\model\ProductsPojo.class
+com\localhost\model\StoresPojo.class
+com\localhost\constants\EndPoints.class
+com\localhost\utils\TestUtils.class
+com\localhost\constants\Path.class
+com\localhost\bestbuyinfo\StoresSteps.class
+com\localhost\utils\PropertyReader.class
+com\localhost\bestbuyinfo\ProductsSteps.class
+com\localhost\model\CategoriesPoJo.class
+com\localhost\model\ServicesPojo.class
+com\localhost\App.class
+com\localhost\bestbuyinfo\CategoriesSteps.class
+com\localhost\bestbuyinfo\UtilitiesSteps.class
